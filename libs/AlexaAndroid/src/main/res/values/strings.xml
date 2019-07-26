@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alexa_product_id" translatable="false"></string>
+    <string name="alexa_api" translatable="false">https://avs-alexa-na.amazon.com</string>
+    <string name="alexa_api_version" translatable="false">v20160207</string>
+</resources>

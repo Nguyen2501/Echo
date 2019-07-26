@@ -1,0 +1,10 @@
+android {
+    signingConfigs {
+        releaseConfig {
+            keyAlias 'key0'
+            keyPassword 'ptmt01278643162'
+            storeFile file('$MODULE_DIR$/signing.gradle')
+            storePassword 'ptmt01278643162'
+        }
+    }
+}
